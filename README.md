@@ -20,7 +20,10 @@ I also am learning two languages Français And Русский.
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matplotlib,numpy,pygame)
 
+# What I Am Learning
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=haxe)
+
 # What I Want To Learn
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zig,haxe)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zig)
 # OS
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows)
