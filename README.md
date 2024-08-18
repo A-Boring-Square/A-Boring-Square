@@ -1,4 +1,3 @@
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
 # Welcome, Bienvenu, добро пожаловать
 # About Me
 I am a HighSchooler that is studying to be an Aerospace Engineer and programming is my hobby.
