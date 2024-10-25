@@ -11,7 +11,7 @@ I also am learning two languages Français And Русский.
 [![My Skills](https://skillicons.dev/icons?i=cmake,git)](https://skillicons.dev)
 
 # Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=assembly)
 
 
