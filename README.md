@@ -5,24 +5,17 @@ I also am learning two languages Français And Русский.
 
 
 # IDEs I Use
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode)
 
 # Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=cmake,git)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git)
 
 # Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=assembly)
-
-
-# Python Libs
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matplotlib,numpy,pygame)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,lua,haxe,odin,c,assembly)
 
 # What I Am Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zig)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,racket)
 
-# What I Want To Learn
 
 # OS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,linux)
