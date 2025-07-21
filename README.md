@@ -1,21 +1,31 @@
-# Welcome, Bienvenu, добро пожаловать
-# About Me
-I am a HighSchooler that is studying to be an Aerospace Engineer and programming is my hobby.
-I also am learning two languages Français And Русский.
+Welcome | Bienvenu | добро пожаловать
+========================================
 
+About Me
+--------
 
-# IDEs I Use
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode)
+I'm a high school student passionate about aerospace engineering, with programming as my hobby.  
+Currently learning **French (Français)** and **Russian (Русский)**.  
+I identify as a **bisexual demigirl**.
 
-# Tools I Use
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git)
+![Demigirl Pride Badge](https://pride-badges.pony.workers.dev/static/v1?label=demigirlware&stripeWidth=8&stripeColors=F773C5,F4A9D6,FFFFFF,C4C4C4,4A4A4A)
 
-# Programming Languages
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,lua,haxe,odin,c,assembly)
+Tools & IDEs I Use
+---------------------
 
-# What I Am Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,racket)
+![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode) ![Git](https://go-skill-icons.vercel.app/api/icons?i=git)
 
+Programming Languages
+------------------------
 
-# OS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,linux)
+![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=py,lua,haxe,odin,c,assembly)
+
+What I'm Learning
+--------------------
+
+![Learning Godot and Racket](https://go-skill-icons.vercel.app/api/icons?i=godot)
+
+Operating Systems
+--------------------
+
+![Windows and Linux](https://go-skill-icons.vercel.app/api/icons?i=windows,linux)
