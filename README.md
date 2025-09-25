@@ -15,16 +15,6 @@ Tools & IDEs I Use
 
 ![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode) ![Git](https://go-skill-icons.vercel.app/api/icons?i=git)
 
-Programming Languages
-------------------------
-
-![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=py,lua,haxe,odin,c,assembly)
-
-What I'm Learning
---------------------
-
-![Learning Godot and Racket](https://go-skill-icons.vercel.app/api/icons?i=godot)
-
 Operating Systems
 --------------------
 
