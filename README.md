@@ -6,9 +6,8 @@ About Me
 
 I'm a high school student passionate about aerospace engineering, with programming as my hobby.  
 Currently learning **Russian (Русский)**.  
-I identify as a **bisexual demigirl**.
+I identify as a **bisexual transgirl**.
 
-![Demigirl Pride Badge](https://pride-badges.pony.workers.dev/static/v1?label=demigirlware&stripeWidth=8&stripeColors=F773C5,F4A9D6,FFFFFF,C4C4C4,4A4A4A)
 
 Tools & IDEs I Use
 ---------------------
