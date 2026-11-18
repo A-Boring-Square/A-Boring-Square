@@ -8,13 +8,7 @@ I'm a high school student passionate about aerospace engineering, with programmi
 Currently learning **Russian (Русский)**.  
 I identify as a **bisexual transgirl**.
 
-
-Tools & IDEs I Use
----------------------
-
-![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode) ![Git](https://go-skill-icons.vercel.app/api/icons?i=git)
-
-Operating Systems
+Operating System
 --------------------
 
-![Windows and Linux](https://go-skill-icons.vercel.app/api/icons?i=windows,linux)
+![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux,debian)
